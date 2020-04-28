@@ -1,0 +1,7 @@
+#
+
+// git init
+// git add .
+// git commit -m "text"
+// git remote add origin https://github.com/therealtoresto/Antipattern.git
+// git push -u origin master
